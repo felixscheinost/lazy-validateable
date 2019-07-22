@@ -1,0 +1,2 @@
+include ':my-validateable'
+project(':my-validateable').projectDir = new File('../my-validateable')
